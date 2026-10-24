@@ -1,3 +1,4 @@
+
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
@@ -39,12 +40,16 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+Direct connection: CIRCUIT DIAGRAM:<img width="1600" height="735" alt="WhatsApp Image 2026-10-23 at 7 30 35 PM" src="https://github.com/user-attachments/assets/bac6a56d-252f-4e84-9bad-25229a0f3110" />
+<img width="1600" height="682" alt="WhatsApp Image 2026-10-23 at 7 30 35 PM (1)" src="https://github.com/user-attachments/assets/9e51a376-b375-4eed-9614-6ab9ed787058" />
 
-Tabulation:2
+Tabulation:1<img width="1628" height="1440" alt="WhatsApp Image 2026-10-23 at 7 30 36 PM" src="https://github.com/user-attachments/assets/cb597c67-406e-4414-adc4-d0b4b593c80f" />
+	
+Cross connection: CIRCUIT DIAGRAM:<img width="1063" height="411" alt="WhatsApp Image 2026-10-24 at 1 48 59 PM" src="https://github.com/user-attachments/assets/73318626-d2e9-4ea0-be10-3701886446ab" />
+<img width="1053" height="415" alt="WhatsApp Image 2026-10-24 at 2 33 06 PM" src="https://github.com/user-attachments/assets/82fe3e4f-8f41-4922-9154-739784d482ba" />
+
+
+Tabulation:2<img width="1600" height="1273" alt="WhatsApp Image 2026-10-23 at 7 30 36 PM (2)" src="https://github.com/user-attachments/assets/415738fd-6d02-4f40-8edf-44eea327bab8" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
